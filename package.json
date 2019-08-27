@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/assumpta-n/base-apparel/issues"
   },
-  "homepage": "https://github.com/assumpta-n/base-apparel#readme"
+  "homepage": "https://github.com/assumpta-n/base-apparel#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
 }
