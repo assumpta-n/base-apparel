@@ -1,0 +1,19 @@
+{
+  "name": "base-apparel",
+  "version": "1.0.0",
+  "description": "A front-end practice project from https://www.frontendmentor.io/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assumpta-n/base-apparel.git"
+  },
+  "author": "Assumpta Nalubowa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/assumpta-n/base-apparel/issues"
+  },
+  "homepage": "https://github.com/assumpta-n/base-apparel#readme"
+}
