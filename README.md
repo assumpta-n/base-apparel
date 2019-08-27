@@ -1,2 +1,2 @@
 # base-apparel
-A practice project form front-end mentor
+A practice project from https://www.frontendmentor.io/
