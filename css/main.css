@@ -12,6 +12,9 @@ body {
   margin: 0;
   box-sizing: inherit; }
 
+body {
+  font-family: "Josefin Sans", sans-serif; }
+
 h1 {
   color: red;
   text-decoration: underline; }
