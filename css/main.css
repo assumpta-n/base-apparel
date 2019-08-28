@@ -13,8 +13,11 @@ body {
   box-sizing: inherit; }
 
 body {
-  font-family: "Josefin Sans", sans-serif; }
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 1.6rem; }
 
-h1 {
-  color: red;
-  text-decoration: underline; }
+.container {
+  height: 100vh;
+  background-image: url(../img/bg-pattern-desktop.svg);
+  background-size: cover;
+  background-position: center; }
