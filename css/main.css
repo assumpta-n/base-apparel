@@ -24,3 +24,8 @@ body {
     background-size: cover;
     background-position: center;
     height: 100vh; }
+  .home__right-col {
+    flex-basis: 45%;
+    height: 100vh;
+    overflow: hidden;
+    background-image: url(../img/bg-pattern-desktop.svg); }
