@@ -22,10 +22,15 @@ body {
 }
 
 // --------------- HOME PAGE STYLES ---------------
-
-.container {
-    height: 100vh;
-    background-image: url(../img/bg-pattern-desktop.svg);
-    background-size: cover;
-    background-position: center;
+.home {
+    display: flex;
+    &__left-col {
+        flex-basis: 65%;
+        background-image: url(../img/bg-pattern-desktop.svg);
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+    }
+    &__right-col {
+    }
 }

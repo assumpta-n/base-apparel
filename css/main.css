@@ -16,8 +16,11 @@ body {
   font-family: "Josefin Sans", sans-serif;
   font-size: 1.6rem; }
 
-.container {
-  height: 100vh;
-  background-image: url(../img/bg-pattern-desktop.svg);
-  background-size: cover;
-  background-position: center; }
+.home {
+  display: flex; }
+  .home__left-col {
+    flex-basis: 65%;
+    background-image: url(../img/bg-pattern-desktop.svg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh; }
