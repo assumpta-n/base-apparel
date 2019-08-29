@@ -27,5 +27,5 @@ body {
   .home__right-col {
     flex-basis: 45%;
     height: 100vh;
-    overflow: hidden;
-    background-image: url(../img/bg-pattern-desktop.svg); }
+    background-image: url(../img/hero-desktop.jpg);
+    background-size: cover; }
