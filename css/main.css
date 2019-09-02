@@ -44,3 +44,7 @@ body {
     background-size: cover; }
   .home__container {
     padding: 5rem 15rem; }
+  .home__paragraph {
+    color: #ce9797;
+    font-size: 1.6rem;
+    line-height: 1.5; }

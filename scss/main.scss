@@ -55,6 +55,13 @@ body {
     &__container {
         padding: 5rem 15rem;
     }
+    &__body {
+    }
     &__logo-div {
+    }
+    &__paragraph {
+        color: hsl(0, 36%, 70%);
+        font-size: 1.6rem;
+        line-height: 1.5;
     }
 }
