@@ -22,12 +22,11 @@ body {
 }
 .heading-primary {
     text-transform: uppercase;
-    letter-spacing: 10px;
+    letter-spacing: 1.5rem;
     line-height: 1.1;
-    font-size: 5rem;
+    font-size: 7rem;
     &--pink {
         font-weight: 300;
-        display: block;
         color: hsl(0, 36%, 70%);
     }
     &--dark {
@@ -63,5 +62,6 @@ body {
         color: hsl(0, 36%, 70%);
         font-size: 1.6rem;
         line-height: 1.5;
+        padding: 0 2rem 0 0;
     }
 }
