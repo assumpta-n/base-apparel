@@ -13,8 +13,21 @@ body {
   box-sizing: inherit; }
 
 body {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 1.6rem; }
+
+.heading-primary {
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  line-height: 1.1;
+  font-size: 5rem; }
+  .heading-primary--pink {
+    font-weight: 300;
+    display: block;
+    color: #ce9797; }
+  .heading-primary--dark {
+    font-weight: 600;
+    color: #413a3a; }
 
 .home {
   display: flex; }
