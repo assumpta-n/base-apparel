@@ -70,7 +70,7 @@ body {
         line-height: 1.5;
     }
     &__input {
-        width: 75%;
+        width: 95%;
         border-radius: 5rem;
         padding: 1rem 2rem;
         border: 1px solid hsl(0, 36%, 70%);
@@ -89,6 +89,17 @@ body {
             opacity: 0.6;
         }
     }
+    &__form {
+        position: relative;
+    }
     &__btn {
+        border: none;
+        padding: 1rem 2rem;
+        font-family: 'Josefin Sans', sans-serif;
+        border-radius: 5rem;
+        font-size: 1.6rem;
+        position: absolute;
+        right: 1rem;
+        bottom: 1px;
     }
 }
