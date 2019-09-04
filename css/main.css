@@ -69,8 +69,7 @@ body {
     position: relative; }
   .home__btn {
     border: none;
-    color: white;
-    padding: 1.6rem 2rem;
+    padding: 1.2rem 3rem;
     font-family: 'Josefin Sans', sans-serif;
     border-radius: 5rem;
     font-size: 1.6rem;
