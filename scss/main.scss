@@ -56,12 +56,12 @@ body {
     &__container {
         padding: 5rem 15rem;
     }
-    &__logo-div {
-    }
     &__section {
+        padding: 6rem 0 0 0;
     }
     &__body {
         width: 80%;
+        padding-top: 1.5rem;
     }
 
     &__paragraph {
@@ -91,6 +91,7 @@ body {
     }
     &__form {
         position: relative;
+        padding-top: 2rem;
     }
     &__btn {
         border: none;

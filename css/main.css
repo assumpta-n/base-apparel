@@ -43,8 +43,11 @@ body {
     background-size: cover; }
   .home__container {
     padding: 5rem 15rem; }
+  .home__section {
+    padding: 6rem 0 0 0; }
   .home__body {
-    width: 80%; }
+    width: 80%;
+    padding-top: 1.5rem; }
   .home__paragraph {
     color: #ce9797;
     font-size: 1.6rem;
@@ -66,7 +69,8 @@ body {
       color: #ce9797;
       opacity: 0.6; }
   .home__form {
-    position: relative; }
+    position: relative;
+    padding-top: 2rem; }
   .home__btn {
     border: none;
     padding: 1.2rem 3rem;
