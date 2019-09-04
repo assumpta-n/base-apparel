@@ -43,8 +43,19 @@ body {
     background-size: cover; }
   .home__container {
     padding: 5rem 15rem; }
+  .home__body {
+    width: 80%; }
   .home__paragraph {
     color: #ce9797;
     font-size: 1.6rem;
-    line-height: 1.5;
-    padding: 0 5rem 0 0; }
+    line-height: 1.5; }
+  .home__input {
+    width: 75%;
+    border-radius: 5rem;
+    padding: 1rem 2rem;
+    border: 1px solid #ce9797;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.6rem; }
+    .home__input::placeholder {
+      color: #ce9797;
+      opacity: 0.6; }

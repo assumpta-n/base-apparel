@@ -38,6 +38,7 @@ body {
 // --------------- HOME PAGE STYLES ---------------
 .home {
     display: flex;
+
     &__left-col {
         flex-basis: 65%;
         background-image: url(../img/bg-pattern-desktop.svg);
@@ -51,19 +52,33 @@ body {
         background-image: url(../img/hero-desktop.jpg);
         background-size: cover;
     }
+
     &__container {
         padding: 5rem 15rem;
+    }
+    &__logo-div {
     }
     &__section {
     }
     &__body {
+        width: 80%;
     }
-    &__logo-div {
-    }
+
     &__paragraph {
         color: hsl(0, 36%, 70%);
         font-size: 1.6rem;
         line-height: 1.5;
-        padding: 0 5rem 0 0;
+    }
+    &__input {
+        width: 75%;
+        border-radius: 5rem;
+        padding: 1rem 2rem;
+        border: 1px solid hsl(0, 36%, 70%);
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 1.6rem;
+        &::placeholder {
+            color: hsl(0, 36%, 70%);
+            opacity: 0.6;
+        }
     }
 }
