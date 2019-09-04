@@ -59,3 +59,9 @@ body {
     .home__input::placeholder {
       color: #ce9797;
       opacity: 0.6; }
+    .home__input::-ms-input-placeholder {
+      color: #ce9797;
+      opacity: 0.6; }
+    .home__input:-ms-input-placeholder {
+      color: #ce9797;
+      opacity: 0.6; }
