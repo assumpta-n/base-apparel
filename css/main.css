@@ -68,6 +68,8 @@ body {
     .home__input:-ms-input-placeholder {
       color: #ce9797;
       opacity: 0.6; }
+    .home__input:focus {
+      outline: none; }
   .home__form {
     position: relative;
     padding-top: 2rem; }
