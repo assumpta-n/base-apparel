@@ -90,6 +90,7 @@ body {
         }
         &:focus {
             outline: none;
+            border: 1px solid hsl(0, 93%, 68%);
         }
     }
     &__form {

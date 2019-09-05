@@ -69,7 +69,8 @@ body {
       color: #ce9797;
       opacity: 0.6; }
     .home__input:focus {
-      outline: none; }
+      outline: none;
+      border: 1px solid #f96262; }
   .home__form {
     position: relative;
     padding-top: 2rem; }
