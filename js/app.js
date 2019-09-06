@@ -1,3 +1,6 @@
 function submitEmail() {
-    alert('Your email has oba been submitted');
+    let feedBackEls = document.getElementsByClassName('toggle-visibility')
+    Array.prototype.forEach.call(feedBackEls, feedBackEl => {
+        feedBackEl.style.visibility = 'hidden'
+    })
 }
