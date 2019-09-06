@@ -97,6 +97,11 @@ body {
         position: relative;
         padding-top: 2rem;
     }
+    &__icon {
+        position: absolute;
+        right: 10rem;
+        top: 3rem;
+    }
     &__btn {
         border: none;
         padding: 1.2rem 3rem;
